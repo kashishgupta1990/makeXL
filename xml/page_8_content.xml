@@ -1,0 +1,14 @@
+<assessmentItem identifier="">
+	<itemBody>
+		<div id="page">
+			<img id="pageImage" src="page8.swf"/>
+		</div>
+		<div id="userBookmark"/>
+		<div id="AudioId1" data="CH1 AT 26.mp3"/>
+		<div id="AudioId2" data="CH1 AT 27.mp3"/>
+		<div id="AudioId3" data="CH1 AT 28.mp3"/>
+		<div id="AudioId4" data="CH1 AT 29.mp3"/>
+		<div id="AudioId5" data="CH1 AT 30.mp3"/>
+	</itemBody>
+</assessmentItem>
+

@@ -1,0 +1,6 @@
+<layout>
+	<object id="page" class="Page" x="0" y="0" width="595" height="754" title="Page 34" description="Page 34"/>
+	<object id="pageImage" class="Image" isPrintable="true" maintainAspectRatio="false" type="component" x="0" y="0" width="595" height="754"/>
+	<object id="userBookmark" class="Canvas" styleName="bookmarkIconSkin" x="10" y="10" width="35" height="35" />
+</layout>
+

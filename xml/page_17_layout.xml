@@ -1,0 +1,9 @@
+<layout>
+	<object id="page" class="Page" x="0" y="0" width="595" height="754" title="Page 17" description="Page 17"/>
+	<object id="pageImage" class="Image" isPrintable="true" maintainAspectRatio="false" type="component" x="0" y="0" width="595" height="754"/>
+	<object id="userBookmark" class="Canvas" styleName="bookmarkIconSkin" x="10" y="10" width="35" height="35" />
+    <object id="AudioId1" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="188" y="69" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+</layout>
+

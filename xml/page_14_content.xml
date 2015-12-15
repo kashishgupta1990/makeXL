@@ -1,0 +1,20 @@
+<assessmentItem identifier="">
+	<itemBody>
+		<div id="page">
+			<img id="pageImage" src="page14.swf"/>
+		</div>
+		<div id="userBookmark"/>
+		<div id="SWF_Hotspot_item_1" data="mt1ch3int2.swf"/>
+		<div id="AudioId1" data="CH3 AT 7.mp3"/>
+		<div id="AudioId2" data="CH3 AT 8.mp3"/>
+		<div id="AudioId3" data="CH3 AT 9.mp3"/>
+		<div id="AudioId4" data="CH3 AT 10.mp3"/>
+		<div id="AudioId5" data="CH3 AT 11.mp3"/>
+		<div id="AudioId6" data="CH3 AT 12.mp3"/>
+		<div id="AudioId7" data="CH3 AT 13.mp3"/>
+		<div id="AudioId8" data="CH3 AT 14.mp3"/>
+		<div id="AudioId9" data="CH3 AT 15.mp3"/>
+		<div id="AudioId10" data="CH3 AT 16.mp3"/>
+	</itemBody>
+</assessmentItem>
+

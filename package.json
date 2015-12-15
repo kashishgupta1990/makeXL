@@ -1,0 +1,24 @@
+{
+  "name": "makexml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashishgupta1990/makeXL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashishgupta1990/makeXL/issues"
+  },
+  "homepage": "https://github.com/kashishgupta1990/makeXL#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "msexcel-builder": "0.0.2",
+    "xml2js": "^0.4.15"
+  }
+}

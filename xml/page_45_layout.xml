@@ -1,0 +1,51 @@
+<layout>
+	<object id="page" class="Page" x="0" y="0" width="595" height="754" title="Page 45" description="Page 45"/>
+	<object id="pageImage" class="Image" isPrintable="true" maintainAspectRatio="false" type="component" x="0" y="0" width="595" height="754"/>
+	<object id="userBookmark" class="Canvas" styleName="bookmarkIconSkin" x="10" y="10" width="35" height="35" />
+    <object id="SWF_Hotspot_item_1" class="SwfHotspot" styleName="hotSpotAdditionalInteractiveActivityLeftStyle" toolTip="Interactivity" title="" description="" pageMarginComponent="false" x="7" y="476" width="26" height="26" pageMarginComponentPosition="inside" mediaPlayer="swfPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="SWF_Hotspot_item_2" class="SwfHotspot" styleName="hotSpotAdditionalInteractiveActivityLeftStyle" toolTip="Interactivity" title="" description="" pageMarginComponent="false" x="9" y="112" width="26" height="26" pageMarginComponentPosition="inside" mediaPlayer="swfPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId1" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="116" y="155" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId2" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="211" y="156" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId3" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="301" y="154" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId4" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="474" y="155" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId5" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="390" y="154" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId6" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="218" y="514" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId7" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="220" y="556" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId8" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="220" y="599" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId9" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="220" y="640" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId10" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="349" y="516" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId11" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="348" y="556" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId12" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="349" y="599" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+    <object id="AudioId13" class="AudioHotspot" styleName="HotspotAudioLeft" toolTip="Audio" title="" description="" pageMarginComponent="false" x="349" y="640" width="15" height="15" pageMarginComponentPosition="inside" defaultPropertyName="transcriptText" mediaPlayer="audioPlayer">
+		<param name="MediaHotspotOperator" value="mediaHotspotOperator"/>
+	 </object>
+</layout>
+

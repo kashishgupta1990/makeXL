@@ -1,0 +1,12 @@
+<assessmentItem identifier="">
+	<itemBody>
+		<div id="page">
+			<img id="pageImage" src="page16.swf"/>
+		</div>
+		<div id="userBookmark"/>
+		<!--div id="SWF_Hotspot_item_1" data="mt1ch3an2.swf"/-->
+		<div id="SWF_Hotspot_item_2" data="mt1ch3int3.swf"/>
+		<div id="SWF_Hotspot_item_3" data="mt1ch3int4.swf"/>
+	</itemBody>
+</assessmentItem>
+

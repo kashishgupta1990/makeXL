@@ -1,0 +1,24 @@
+<assessmentItem identifier="">
+	<itemBody>
+		<div id="page">
+			<img id="pageImage" src="page45.swf"/>
+		</div>
+		<div id="userBookmark"/>
+		<div id="SWF_Hotspot_item_1" data="mt1ch8int1.swf"/>
+		<div id="SWF_Hotspot_item_2" data="mt1ch8int2.swf"/>
+		<div id="AudioId1" data="CH8 AT 2.mp3"/>
+		<div id="AudioId2" data="CH8 AT 3.mp3"/>
+		<div id="AudioId3" data="CH8 AT 4.mp3"/>
+		<div id="AudioId4" data="CH8 AT 6.mp3"/>
+		<div id="AudioId5" data="CH8 AT 5.mp3"/>
+		<div id="AudioId6" data="CH8 AT 7.mp3"/>
+		<div id="AudioId7" data="CH8 AT 9.mp3"/>
+		<div id="AudioId8" data="CH8 AT 11.mp3"/>
+		<div id="AudioId9" data="CH8 AT 13.mp3"/>
+		<div id="AudioId10" data="CH8 AT 8.mp3"/>
+		<div id="AudioId11" data="CH8 AT 10.mp3"/>
+		<div id="AudioId12" data="CH8 AT 12.mp3"/>
+		<div id="AudioId13" data="CH8 AT 14.mp3"/>
+	</itemBody>
+</assessmentItem>
+
