@@ -5,6 +5,8 @@ var fs = require('fs');
 var xml2js = require('xml2js');
 var async = require('async');
 var excelbuilder = require('msexcel-builder');
+var _ = require('lodash');
+var pageObject={};
 
 
 for(var pageNumber=START;pageNumber<=END;pageNumber++){
@@ -41,6 +43,14 @@ async.series(task,function(err, finalResult){
   }else{
     finalResult.forEach(function(dta){
       dta.forEach(function(p){
+        if(!pageObject[p.pageNumber]){
+          pageObject[p.pageNumber]=true;
+          p.id='page';
+          p.styleName='page';
+          p.toolTip='page';
+          list.push(p);
+        }
+
         if(p.pageNumber && p.id && p.styleName && p.toolTip){
            list.push(p);
         }
@@ -49,7 +59,7 @@ async.series(task,function(err, finalResult){
   }
 
   // Create a new workbook file in current working-path
-  var workbook = excelbuilder.createWorkbook('./', 'result.xlsx')
+  var workbook = excelbuilder.createWorkbook('./', 'result.xlsx');
 
   // Create a new worksheet with 10 columns and 12 rows
   var sheet1 = workbook.createSheet('sheet1', 5, list.length + 1);
