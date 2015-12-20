@@ -5,7 +5,6 @@ var fs = require('fs');
 var xml2js = require('xml2js');
 var async = require('async');
 var excelbuilder = require('msexcel-builder');
-var _ = require('lodash');
 var pageObject={};
 
 
