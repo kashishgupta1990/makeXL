@@ -48,10 +48,11 @@ async.series(task,function(err, finalResult){
           p.id='page';
           p.styleName='page';
           p.toolTip='page';
+
           list.push(p);
         }
 
-        if(p.pageNumber && p.id && p.styleName && p.toolTip){
+        if(p.pageNumber && p.id && p.styleName && p.toolTip && p.id!=='page'){
            list.push(p);
         }
       });
